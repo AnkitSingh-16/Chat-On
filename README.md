@@ -105,10 +105,10 @@ The application will run on http://localhost:3000 by default.
 
 ## Screenshots
 
-![Login_Page Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Chat-On/Image/homeimg.png)
-![Chat_Page Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Chat-On/Image/chatimg.png)
-![Profile_Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Chat-On/Image/img2.png)
-![Group Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Chat-On/Image/img1.png)
+![Login_Page Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Image/homeimg.png)
+![Chat_Page Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Image/chatimg.png)
+![Profile_Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Image/img1.png)
+![Group Screenshot](https://github.com/AnkitSingh-16/Chat-On/blob/main/Image/img2.png)
 
 
 
